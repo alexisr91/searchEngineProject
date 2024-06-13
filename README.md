@@ -10,7 +10,6 @@ sQuery is a fictionnal search engine. The project is a server side and a client 
 
 **Database server:** MySQL
 
-**Design pattern:** MVC
 
 
 
